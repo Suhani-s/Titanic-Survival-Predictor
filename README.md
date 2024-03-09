@@ -1,2 +1,2 @@
 # Titanic-Survival-Predictor
-This is the first project as part of the Machine Learning Internship at Bharat Intern.
+This is the first project as part of the Data Science Internship at Bharat Intern.
